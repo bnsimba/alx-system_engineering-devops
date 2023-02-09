@@ -1,2 +1,2 @@
-#!/bin/bash
-we are writing scripts on shell permissions
+This Folder is all about shell permissions.  
+
